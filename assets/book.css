@@ -98,10 +98,16 @@ body.source-art-page {
   object-fit: contain;
 }
 
-.book-header {
+.book-header,
+.chapter-banner {
+  display: grid;
+  justify-items: center;
   margin-bottom: clamp(1.5rem, 3vw, 2.5rem);
-  border-bottom: 0.35rem solid var(--book-gold);
-  padding-bottom: 1rem;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--book-ink);
+  text-align: center;
 }
 
 .chapter-kicker {
@@ -112,6 +118,23 @@ body.source-art-page {
   font-weight: 700;
   letter-spacing: 0.045em;
   text-transform: uppercase;
+}
+
+.book-header .chapter-kicker,
+.chapter-banner .chapter-kicker {
+  position: relative;
+  z-index: 1;
+  min-width: min(75%, 22rem);
+  max-width: 92%;
+  margin: 0 0 -0.15rem;
+  border: 0.25rem double #0ea5df;
+  border-radius: 1rem 1rem 0 0;
+  padding: 0.45rem 1.2rem 0.65rem;
+  background: #ffffff;
+  color: #075985;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: none;
 }
 
 .adt-h1,
@@ -126,6 +149,32 @@ body.source-art-page {
 .adt-h1 {
   margin-bottom: 0.75rem;
   font-size: clamp(2.25rem, 6vw, 4.6rem);
+}
+
+.book-header .adt-h1,
+.chapter-banner .adt-h1,
+#content.book-content > section > h1.sr-only:first-child {
+  box-sizing: border-box;
+  position: static;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border: 0;
+  padding: clamp(0.65rem, 2vw, 1.15rem) clamp(1rem, 3vw, 2rem);
+  overflow: visible;
+  background: #0ea5df;
+  clip: auto;
+  clip-path: none;
+  color: #ffffff;
+  font-size: clamp(2.25rem, 6vw, 4.6rem);
+  line-height: 1.12;
+  text-align: center;
+  text-wrap: balance;
+  white-space: normal;
+}
+
+#content.book-content > section > h1.sr-only:first-child {
+  margin-bottom: clamp(1.5rem, 3vw, 2.5rem);
 }
 
 .adt-h2 {
@@ -486,25 +535,6 @@ body.source-art-page {
 
 .song-verses p {
   margin: 1.4rem 0 0;
-}
-
-.chapter-banner {
-  margin-bottom: 2rem;
-  border-top: 0.3rem double var(--book-sky);
-  border-bottom: 0.3rem double var(--book-sky);
-  padding: 1rem;
-  background: #0ea5df;
-  color: #ffffff;
-  text-align: center;
-}
-
-.chapter-banner .chapter-kicker {
-  color: #ffffff;
-}
-
-.chapter-banner .adt-h1 {
-  margin-bottom: 0;
-  color: #ffffff;
 }
 
 .split-guide-callout {
