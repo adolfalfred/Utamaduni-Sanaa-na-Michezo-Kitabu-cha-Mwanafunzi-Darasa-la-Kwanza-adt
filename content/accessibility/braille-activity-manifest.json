@@ -8,9 +8,9 @@
   "sixKeyInputEnabled": false,
   "activationRule": "Usiwashe tafsiri ya vitufe sita kabla mtaalamu wa Breli wa Tanzania hajathibitisha msimbo, jedwali na kanuni za tathmini.",
   "summary": {
-    "activities": 32,
-    "nativeKeyboardOrBrailleAlternatives": 32,
-    "tactileResourceRequired": 32,
+    "activities": 44,
+    "nativeKeyboardOrBrailleAlternatives": 44,
+    "tactileResourceRequired": 44,
     "sixKeyPilotCandidates": 0
   },
   "activities": [
@@ -1116,6 +1116,427 @@
       "expectedResponses": 1,
       "taskType": "creative-drawing-and-colouring",
       "expectedResponseType": "colour-canvas-or-native-text-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-033",
+      "href": "pg045046_sec001.html",
+      "sectionId": "pg045046_sec001",
+      "sectionTitle": "Tuchape kwa kusugua",
+      "sourcePages": [
+        46
+      ],
+      "printedPages": "40",
+      "expectedResponses": 1,
+      "taskType": "rubbing-printmaking",
+      "expectedResponseType": "teacher-reviewed-completion-or-description",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-034",
+      "href": "pg047049_sec001.html",
+      "sectionId": "pg047049_sec001",
+      "sectionTitle": "Tuchape kwa kugandamiza",
+      "sourcePages": [
+        49
+      ],
+      "printedPages": "43",
+      "expectedResponses": 1,
+      "taskType": "press-printmaking",
+      "expectedResponseType": "teacher-reviewed-completion-or-description",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-035",
+      "href": "pg051052_sec001.html",
+      "sectionId": "pg051052_sec001",
+      "sectionTitle": "Hatua za kutunga shanga",
+      "sourcePages": [
+        51,
+        52
+      ],
+      "printedPages": "45,46",
+      "expectedResponses": 4,
+      "taskType": "picture-sequence-explanation-and-open-response",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-036",
+      "href": "pg051052_sec001.html",
+      "sectionId": "pg051052_sec001",
+      "sectionTitle": "Hatua za kutunga shanga",
+      "sourcePages": [
+        52
+      ],
+      "printedPages": "46",
+      "expectedResponses": 1,
+      "taskType": "craft-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-037",
+      "href": "pg054_sec001.html",
+      "sectionId": "pg054_sec001",
+      "sectionTitle": "Tuimbe wimbo wa rasilimali zetu",
+      "sourcePages": [
+        54
+      ],
+      "printedPages": "48",
+      "expectedResponses": 1,
+      "taskType": "reflection",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-038",
+      "href": "pg054_sec001.html",
+      "sectionId": "pg054_sec001",
+      "sectionTitle": "Tuimbe wimbo wa rasilimali zetu",
+      "sourcePages": [
+        54
+      ],
+      "printedPages": "48",
+      "expectedResponses": 1,
+      "taskType": "singing-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-039",
+      "href": "pg055056_sec001.html",
+      "sectionId": "pg055056_sec001",
+      "sectionTitle": "Tuimbe wimbo wa Tanzania nakupenda",
+      "sourcePages": [
+        56
+      ],
+      "printedPages": "50",
+      "expectedResponses": 1,
+      "taskType": "reflection",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-040",
+      "href": "pg055056_sec001.html",
+      "sectionId": "pg055056_sec001",
+      "sectionTitle": "Tuimbe wimbo wa Tanzania nakupenda",
+      "sourcePages": [
+        56
+      ],
+      "printedPages": "50",
+      "expectedResponses": 1,
+      "taskType": "singing-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-041",
+      "href": "pg056_sec002.html",
+      "sectionId": "pg056_sec002",
+      "sectionTitle": "Tuimbe wimbo wa mbuga za wanyama Tanzania",
+      "sourcePages": [
+        56
+      ],
+      "printedPages": "50",
+      "expectedResponses": 1,
+      "taskType": "reflection",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-042",
+      "href": "pg057_sec001.html",
+      "sectionId": "pg057_sec001",
+      "sectionTitle": "Tuimbe wimbo wa Taifa",
+      "sourcePages": [
+        57
+      ],
+      "printedPages": "51",
+      "expectedResponses": 1,
+      "taskType": "reflection",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-043",
+      "href": "pg060_sec001.html",
+      "sectionId": "pg060_sec001",
+      "sectionTitle": "Zoezi la 16: Mashairi",
+      "sourcePages": [
+        60
+      ],
+      "printedPages": "54",
+      "expectedResponses": 3,
+      "taskType": "reflection-and-reason",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-044",
+      "href": "pg060_sec002.html",
+      "sectionId": "pg060_sec002",
+      "sectionTitle": "Tucheze ngoma na muziki",
+      "sourcePages": [
+        60
+      ],
+      "printedPages": "54",
+      "expectedResponses": 1,
+      "taskType": "dance-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
         "keyboard",
         "braille-display",
