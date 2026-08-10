@@ -1,0 +1,17 @@
+{
+  "bookTitle": "Utamaduni, Sanaa na Michezo - Kitabu cha Mwanafunzi, Darasa la Kwanza",
+  "manifestPurpose": "Mapitio ya mwalimu mwenye sifa kuhusu shughuli, majibu ya kibodi au Breli, nyenzo za mguso, na taarifa za vielelezo.",
+  "generatedDate": "2026-08-10",
+  "reviewStatus": "inventory-in-progress",
+  "brailleCode": null,
+  "translationTable": null,
+  "sixKeyInputEnabled": false,
+  "activationRule": "Usiwashe tafsiri ya vitufe sita kabla mtaalamu wa Breli wa Tanzania hajathibitisha msimbo, jedwali na kanuni za tathmini.",
+  "summary": {
+    "activities": 0,
+    "nativeKeyboardOrBrailleAlternatives": 0,
+    "tactileResourceRequired": 0,
+    "sixKeyPilotCandidates": 0
+  },
+  "activities": []
+}
