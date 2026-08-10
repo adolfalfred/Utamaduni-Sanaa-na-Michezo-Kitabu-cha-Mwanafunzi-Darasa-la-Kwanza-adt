@@ -411,6 +411,77 @@ body.source-art-page {
   display: block;
 }
 
+.chapter-banner {
+  margin-bottom: 2rem;
+  border-top: 0.3rem double var(--book-sky);
+  border-bottom: 0.3rem double var(--book-sky);
+  padding: 1rem;
+  background: #0ea5df;
+  color: #ffffff;
+  text-align: center;
+}
+
+.chapter-banner .chapter-kicker {
+  color: #ffffff;
+}
+
+.chapter-banner .adt-h1 {
+  margin-bottom: 0;
+  color: #ffffff;
+}
+
+.split-guide-callout {
+  display: grid;
+  grid-template-columns: minmax(5rem, 9rem) minmax(0, 1fr);
+  align-items: center;
+  gap: 0.25rem;
+  margin: 0 auto 2rem;
+  width: min(100%, 62rem);
+}
+
+.split-guide-callout img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.speech-panel {
+  position: relative;
+  margin: 1.5rem auto 3rem;
+  border: 0.15rem solid #ec4899;
+  border-radius: 1.25rem;
+  padding: clamp(1.2rem, 3vw, 2rem);
+  background: #fff0f7;
+  color: var(--book-ink);
+  font-size: clamp(1.3rem, 3vw, 2rem);
+  line-height: 1.55;
+}
+
+.speech-panel::after {
+  position: absolute;
+  right: 10%;
+  bottom: -1.8rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  border-right: 0.15rem solid #ec4899;
+  border-bottom: 0.15rem solid #ec4899;
+  background: #fff0f7;
+  content: "";
+  transform: rotate(45deg);
+}
+
+.speech-panel p {
+  margin: 0;
+}
+
+.paired-response-card .prompt-block {
+  margin-top: 0.55rem;
+}
+
+.paired-response-card .response-textarea {
+  min-height: 6rem;
+}
+
 .activity-panel {
   margin-top: 2rem;
   border: 0.15rem solid #93c5fd;
@@ -584,6 +655,10 @@ select:focus-visible {
   .portrait-grid,
   .instrument-grid {
     grid-template-columns: 1fr;
+  }
+
+  .split-guide-callout {
+    grid-template-columns: minmax(4rem, 6rem) minmax(0, 1fr);
   }
 
   .publication-grid dd,
