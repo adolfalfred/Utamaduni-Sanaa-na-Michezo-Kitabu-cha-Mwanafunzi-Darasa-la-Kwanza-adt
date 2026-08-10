@@ -1,1 +1,576 @@
-[]
+[
+  {
+    "section_id": "cover_sec001",
+    "href": "index.html",
+    "title": "Jalada la mbele",
+    "chapter_id": "toc_cover_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg001_sec001",
+    "href": "pg001_sec001.html",
+    "title": "Ukurasa wa kichwa",
+    "chapter_id": "toc_pg001_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg002_sec001",
+    "href": "pg002_sec001.html",
+    "title": "Taarifa za uchapishaji",
+    "chapter_id": "toc_pg002_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg003_sec001",
+    "href": "pg003_sec001.html",
+    "title": "Yaliyomo",
+    "chapter_id": "toc_pg003_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg004005_sec001",
+    "href": "pg004005_sec001.html",
+    "title": "Shukurani",
+    "chapter_id": "toc_pg004005_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg006_sec001",
+    "href": "pg006_sec001.html",
+    "title": "Utangulizi",
+    "chapter_id": "toc_pg006_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg007008_sec001",
+    "href": "pg007008_sec001.html",
+    "title": "Sura ya Kwanza: Utamaduni wetu — Tupende vyakula vyetu",
+    "chapter_id": "toc_pg007008_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg009_sec001",
+    "href": "pg009_sec001.html",
+    "title": "Vyakula vya asili vya baadhi ya jamii za Kitanzania",
+    "chapter_id": "toc_pg009_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg010_sec001",
+    "href": "pg010_sec001.html",
+    "title": "Wali, ugali na samaki",
+    "chapter_id": "toc_pg010_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg011_sec001",
+    "href": "pg011_sec001.html",
+    "title": "Nyama ya kuchoma na ndizi za kupikwa",
+    "chapter_id": "toc_pg011_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg012_sec001",
+    "href": "pg012_sec001.html",
+    "title": "Zoezi la 2: Vyakula vya asili",
+    "chapter_id": "toc_pg012_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg013_sec001",
+    "href": "pg013_sec001.html",
+    "title": "Tuvae mavazi yetu",
+    "chapter_id": "toc_pg013_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg014_sec001",
+    "href": "pg014_sec001.html",
+    "title": "Aina mbalimbali za mavazi",
+    "chapter_id": "toc_pg014_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg015_sec001",
+    "href": "pg015_sec001.html",
+    "title": "Tuimbe shairi la mavazi yetu",
+    "chapter_id": "toc_pg015_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg016_sec001",
+    "href": "pg016_sec001.html",
+    "title": "Shairi la mavazi na Zoezi la 3",
+    "chapter_id": "toc_pg016_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg016017_sec002",
+    "href": "pg016017_sec002.html",
+    "title": "Tucheze ngoma zetu: Ala za muziki",
+    "chapter_id": "toc_pg016017_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg018_sec001",
+    "href": "pg018_sec001.html",
+    "title": "Tucheze ngoma zetu",
+    "chapter_id": "toc_pg018_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg019_sec001",
+    "href": "pg019_sec001.html",
+    "title": "Ngoma ya mganda na ngoma ya msewe",
+    "chapter_id": "toc_pg019_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg020_sec001",
+    "href": "pg020_sec001.html",
+    "title": "Ngoma ya kimasai na ngoma ya sindimba",
+    "chapter_id": "toc_pg020_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg021_sec001",
+    "href": "pg021_sec001.html",
+    "title": "Zoezi la 5 na Shughuli ya kufanya 4",
+    "chapter_id": "toc_pg021_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg022023_sec001",
+    "href": "pg022023_sec001.html",
+    "title": "Sura ya Pili: Kuheshimu tofauti za imani — Ninaheshimu nyumba za ibada",
+    "chapter_id": "toc_pg022023_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg024_sec001",
+    "href": "pg024_sec001.html",
+    "title": "Ninaheshimu imani za watu wengine",
+    "chapter_id": "toc_pg024_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg025_sec001",
+    "href": "pg025_sec001.html",
+    "title": "Zoezi la 2: Matendo ya ibada",
+    "chapter_id": "toc_pg025_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg026027_sec001",
+    "href": "pg026027_sec001.html",
+    "title": "Tushirikiane katika jamii zetu",
+    "chapter_id": "toc_pg026027_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg028_sec001",
+    "href": "pg028_sec001.html",
+    "title": "Sura ya Tatu: Matendo yenye maadili — Tusalimiane",
+    "chapter_id": "toc_pg028_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg029_sec001",
+    "href": "pg029_sec001.html",
+    "title": "Tuimbe wimbo wa salamu",
+    "chapter_id": "toc_pg029_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg030_sec001",
+    "href": "pg030_sec001.html",
+    "title": "Tuombe na kupokea vitu kwa adabu",
+    "chapter_id": "toc_pg030_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg031033_sec001",
+    "href": "pg031033_sec001.html",
+    "title": "Kuthamini watu wengine",
+    "chapter_id": "toc_pg031033_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg034_sec001",
+    "href": "pg034_sec001.html",
+    "title": "Sura ya Nne: Ninapenda sanaa — Tusuke ukili",
+    "chapter_id": "toc_pg034_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg035_sec001",
+    "href": "pg035_sec001.html",
+    "title": "Tufinyange vitu mbalimbali",
+    "chapter_id": "toc_pg035_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg036_sec001",
+    "href": "pg036_sec001.html",
+    "title": "Kufinyanga umbo la mtu",
+    "chapter_id": "toc_pg036_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg037038_sec001",
+    "href": "pg037038_sec001.html",
+    "title": "Kufinyanga umbo la kikombe",
+    "chapter_id": "toc_pg037038_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg039040_sec001",
+    "href": "pg039040_sec001.html",
+    "title": "Kuchora maumbo ya herufi",
+    "chapter_id": "toc_pg039040_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg040_sec002",
+    "href": "pg040_sec002.html",
+    "title": "Kuchora maumbo ya namba",
+    "chapter_id": "toc_pg040_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg041_sec001",
+    "href": "pg041_sec001.html",
+    "title": "Kuchora maumbo ya vitu",
+    "chapter_id": "toc_pg041_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg042_sec001",
+    "href": "pg042_sec001.html",
+    "title": "Tupake rangi maumbo ya herufi",
+    "chapter_id": "toc_pg042_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg043_sec001",
+    "href": "pg043_sec001.html",
+    "title": "Zoezi la 6: Herufi",
+    "chapter_id": "toc_pg043_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg043_sec002",
+    "href": "pg043_sec002.html",
+    "title": "Zoezi la 7: Namba",
+    "chapter_id": "toc_pg043_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg044_sec001",
+    "href": "pg044_sec001.html",
+    "title": "Tupake rangi maumbo ya vitu",
+    "chapter_id": "toc_pg044_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg045046_sec001",
+    "href": "pg045046_sec001.html",
+    "title": "Tuchape kwa kusugua",
+    "chapter_id": "toc_pg045046_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg047049_sec001",
+    "href": "pg047049_sec001.html",
+    "title": "Tuchape kwa kugandamiza",
+    "chapter_id": "toc_pg047049_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg050_sec001",
+    "href": "pg050_sec001.html",
+    "title": "Tutunge vitu",
+    "chapter_id": "toc_pg050_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg051052_sec001",
+    "href": "pg051052_sec001.html",
+    "title": "Hatua za kutunga shanga",
+    "chapter_id": "toc_pg051052_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg053_sec001",
+    "href": "pg053_sec001.html",
+    "title": "Tuimbe nyimbo",
+    "chapter_id": "toc_pg053_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg054_sec001",
+    "href": "pg054_sec001.html",
+    "title": "Tuimbe wimbo wa rasilimali zetu",
+    "chapter_id": "toc_pg054_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg055056_sec001",
+    "href": "pg055056_sec001.html",
+    "title": "Tuimbe wimbo wa Tanzania nakupenda",
+    "chapter_id": "toc_pg055056_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg056_sec002",
+    "href": "pg056_sec002.html",
+    "title": "Tuimbe wimbo wa mbuga za wanyama Tanzania",
+    "chapter_id": "toc_pg056_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg057_sec001",
+    "href": "pg057_sec001.html",
+    "title": "Tuimbe wimbo wa Taifa",
+    "chapter_id": "toc_pg057_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg058_sec001",
+    "href": "pg058_sec001.html",
+    "title": "Tughani shairi la sanaa",
+    "chapter_id": "toc_pg058_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg059_sec001",
+    "href": "pg059_sec001.html",
+    "title": "Tughani shairi kuhusu rushwa",
+    "chapter_id": "toc_pg059_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg059_sec002",
+    "href": "pg059_sec002.html",
+    "title": "Tughani shairi la utamaduni wetu",
+    "chapter_id": "toc_pg059_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg060_sec001",
+    "href": "pg060_sec001.html",
+    "title": "Zoezi la 16: Mashairi",
+    "chapter_id": "toc_pg060_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg060_sec002",
+    "href": "pg060_sec002.html",
+    "title": "Tucheze ngoma na muziki",
+    "chapter_id": "toc_pg060_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg061062_sec001",
+    "href": "pg061062_sec001.html",
+    "title": "Sura ya Tano: Kucheza michezo mbalimbali — Kujinyoosha ukiwa umesimama",
+    "chapter_id": "toc_pg061062_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg062063_sec002",
+    "href": "pg062063_sec002.html",
+    "title": "Kujinyoosha kwa kutumia kiti",
+    "chapter_id": "toc_pg062063_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg063_sec002",
+    "href": "pg063_sec002.html",
+    "title": "Kujinyoosha kwa kulala kifudifudi",
+    "chapter_id": "toc_pg063_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg064_sec001",
+    "href": "pg064_sec001.html",
+    "title": "Kujinyoosha kwa kuchuchumaa",
+    "chapter_id": "toc_pg064_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg064_sec002",
+    "href": "pg064_sec002.html",
+    "title": "Kujinyoosha ukiwa umekaa",
+    "chapter_id": "toc_pg064_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg065_sec001",
+    "href": "pg065_sec001.html",
+    "title": "Kujinyoosha kwa kuinama",
+    "chapter_id": "toc_pg065_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg065_sec002",
+    "href": "pg065_sec002.html",
+    "title": "Kujinyoosha kwa kulala na kunyanyua mguu mmoja",
+    "chapter_id": "toc_pg065_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg066_sec001",
+    "href": "pg066_sec001.html",
+    "title": "Kujinyoosha kwa kulala na kunyanyua miguu kwa pamoja",
+    "chapter_id": "toc_pg066_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg067_sec001",
+    "href": "pg067_sec001.html",
+    "title": "Shughuli ya kufanya 1: Kujinyoosha",
+    "chapter_id": "toc_pg067_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg067069_sec002",
+    "href": "pg067069_sec002.html",
+    "title": "Tucheze mchezo wa simama kaa",
+    "chapter_id": "toc_pg067069_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg070073_sec001",
+    "href": "pg070073_sec001.html",
+    "title": "Tucheze mchezo wa mdako",
+    "chapter_id": "toc_pg070073_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg074075_sec001",
+    "href": "pg074075_sec001.html",
+    "title": "Tucheze mchezo wa kuruka viunzi",
+    "chapter_id": "toc_pg074075_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg076_sec001",
+    "href": "pg076_sec001.html",
+    "title": "Tucheze mchezo wa nyama nyama nyama",
+    "chapter_id": "toc_pg076_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg077080_sec001",
+    "href": "pg077080_sec001.html",
+    "title": "Tuimbe na kucheza wimbo wa nyama nyama nyama",
+    "chapter_id": "toc_pg077080_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg081082_sec001",
+    "href": "pg081082_sec001.html",
+    "title": "Tucheze mchezo wa kusimama kwa mguu mmoja",
+    "chapter_id": "toc_pg081082_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg083_sec001",
+    "href": "pg083_sec001.html",
+    "title": "Tucheze mchezo wa kutembea juu ya ubao",
+    "chapter_id": "toc_pg083_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg084086_sec001",
+    "href": "pg084086_sec001.html",
+    "title": "Tucheze mchezo wa kipande wa mguu mmoja",
+    "chapter_id": "toc_pg084086_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg087088_sec001",
+    "href": "pg087088_sec001.html",
+    "title": "Tucheze mchezo wa kusimama kwa mikono",
+    "chapter_id": "toc_pg087088_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg089090_sec001",
+    "href": "pg089090_sec001.html",
+    "title": "Kujiviringisha kwa kwenda mbele",
+    "chapter_id": "toc_pg089090_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg091092_sec001",
+    "href": "pg091092_sec001.html",
+    "title": "Kujiviringisha kwa kurudi nyuma",
+    "chapter_id": "toc_pg091092_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg093094_sec001",
+    "href": "pg093094_sec001.html",
+    "title": "Tucheze mchezo wa kuchukua kwa haraka",
+    "chapter_id": "toc_pg093094_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg094096_sec002",
+    "href": "pg094096_sec002.html",
+    "title": "Kuruka kamba kwa miguu miwili",
+    "chapter_id": "toc_pg094096_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg097_sec001",
+    "href": "pg097_sec001.html",
+    "title": "Kuruka kamba kwa mguu mmoja",
+    "chapter_id": "toc_pg097_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg098_sec001",
+    "href": "pg098_sec001.html",
+    "title": "Kuruka kamba watu wawili na zaidi",
+    "chapter_id": "toc_pg098_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg099100_sec001",
+    "href": "pg099100_sec001.html",
+    "title": "Tucheze mchezo wa visanduku",
+    "chapter_id": "toc_pg099100_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg101102_sec001",
+    "href": "pg101102_sec001.html",
+    "title": "Tucheze mchezo wa kapu la matunda",
+    "chapter_id": "toc_pg101102_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg103_sec001",
+    "href": "pg103_sec001.html",
+    "title": "Faharasa",
+    "chapter_id": "toc_pg103_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg104_sec001",
+    "href": "pg104_sec001.html",
+    "title": "Bibliografia",
+    "chapter_id": "toc_pg104_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "back_cover_sec001",
+    "href": "back_cover.html",
+    "title": "Jalada la nyuma",
+    "chapter_id": "toc_back_cover_sec001",
+    "level": 1
+  }
+]

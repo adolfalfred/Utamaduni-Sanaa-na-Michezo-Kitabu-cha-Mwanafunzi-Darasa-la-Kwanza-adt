@@ -1,0 +1,321 @@
+:root {
+  --book-sky: #86d3e8;
+  --book-sky-soft: #eaf8fc;
+  --book-wine: #74111b;
+  --book-wine-dark: #55102a;
+  --book-blue: #28459d;
+  --book-gold: #f8b900;
+  --book-green: #4b8d44;
+  --book-ink: #18243a;
+  --book-muted: #536078;
+  --book-line: #c9dce6;
+  --book-focus: #075985;
+}
+
+html {
+  background: #ffffff;
+  color: var(--book-ink);
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 20rem;
+  background: linear-gradient(180deg, var(--book-sky-soft) 0, #ffffff 24rem);
+  color: var(--book-ink);
+}
+
+body.source-art-page {
+  background: #ffffff;
+}
+
+#content {
+  box-sizing: border-box;
+  margin-inline: auto;
+  width: 100%;
+  max-width: 80rem;
+}
+
+#content.book-content {
+  padding: clamp(1.5rem, 4vw, 4rem);
+  padding-bottom: clamp(7rem, 12vw, 10rem);
+}
+
+#content.source-art-content {
+  max-width: none;
+  min-height: 100vh;
+  padding: 0;
+}
+
+.source-art-stage {
+  box-sizing: border-box;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: clamp(0.5rem, 2vw, 1.5rem);
+  padding-bottom: clamp(5.75rem, 9vh, 7rem);
+  background: #ffffff;
+}
+
+.source-art-figure {
+  width: 100%;
+  margin: 0;
+}
+
+.source-art-image {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: calc(100vh - 7.5rem);
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.book-header {
+  margin-bottom: clamp(1.5rem, 3vw, 2.5rem);
+  border-bottom: 0.35rem solid var(--book-gold);
+  padding-bottom: 1rem;
+}
+
+.chapter-kicker {
+  margin: 0 0 0.4rem;
+  color: var(--book-wine);
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: clamp(1rem, 2.2vw, 1.25rem);
+  font-weight: 700;
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+}
+
+.adt-h1,
+.adt-h2,
+.adt-h3 {
+  margin-top: 0;
+  color: var(--book-wine);
+  line-height: 1.12;
+  text-wrap: balance;
+}
+
+.adt-h1 {
+  margin-bottom: 0.75rem;
+  font-size: clamp(2.25rem, 6vw, 4.6rem);
+}
+
+.adt-h2 {
+  margin-bottom: 0.65rem;
+  font-size: clamp(1.75rem, 4vw, 3rem);
+}
+
+.adt-h3 {
+  margin-bottom: 0.55rem;
+  font-size: clamp(1.35rem, 3vw, 2rem);
+}
+
+.book-prose {
+  font-size: clamp(1.25rem, 2.6vw, 1.75rem);
+  line-height: 1.62;
+}
+
+.book-prose p,
+.book-prose dl,
+.book-prose ol,
+.book-prose ul {
+  margin-block: 0 1.35rem;
+}
+
+.publication-grid,
+.credits-grid {
+  display: grid;
+  grid-template-columns: minmax(8rem, 0.38fr) minmax(0, 1fr);
+  gap: 0.45rem 1.25rem;
+  margin-bottom: 1.75rem;
+}
+
+.publication-grid dt,
+.credits-grid dt {
+  color: var(--book-wine-dark);
+  font-weight: 700;
+}
+
+.publication-grid dd,
+.credits-grid dd {
+  margin: 0;
+}
+
+.toc-list {
+  display: grid;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.toc-entry {
+  display: grid;
+  grid-template-columns: auto minmax(1rem, 1fr) auto;
+  align-items: end;
+  gap: 0.65rem;
+  border-radius: 0.4rem;
+  padding: 0.4rem 0.3rem;
+}
+
+.toc-entry:hover {
+  background: var(--book-sky-soft);
+}
+
+.toc-label {
+  min-width: 0;
+}
+
+.toc-label strong,
+.toc-label span {
+  display: block;
+}
+
+.toc-label span {
+  color: var(--book-muted);
+}
+
+.toc-leader {
+  overflow: hidden;
+  color: var(--book-line);
+  white-space: nowrap;
+}
+
+.toc-leader::after {
+  content: "........................................................................................";
+  letter-spacing: 0.15em;
+}
+
+.toc-page {
+  color: var(--book-wine-dark);
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.intro-list {
+  padding-left: 2rem;
+}
+
+.intro-list li {
+  margin-bottom: 0.65rem;
+  padding-left: 0.5rem;
+}
+
+.resource-block {
+  display: grid;
+  grid-template-columns: minmax(7rem, 10rem) minmax(0, 1fr);
+  align-items: center;
+  gap: 1.25rem;
+  margin-top: 2rem;
+  border-left: 0.5rem solid var(--book-blue);
+  padding: 1rem;
+  background: var(--book-sky-soft);
+}
+
+.resource-qr {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.resource-copy {
+  margin: 0;
+}
+
+.resource-copy a {
+  color: #075985;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+  text-decoration: underline;
+}
+
+.instruction,
+.activity-heading,
+.exercise-heading,
+.song-heading,
+.poem-heading {
+  border-left: 0.5rem solid var(--book-gold);
+  padding: 0.65rem 1rem;
+  background: var(--book-sky-soft);
+  color: var(--book-wine-dark);
+}
+
+.activity-heading,
+.exercise-heading {
+  border-color: var(--book-blue);
+}
+
+.song-heading,
+.poem-heading {
+  border-color: var(--book-green);
+}
+
+.source-page-number {
+  margin-top: 2.5rem;
+  color: var(--book-muted);
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: 1rem;
+  text-align: end;
+}
+
+.book-toc-unit-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.book-toc-unit-link:focus-visible,
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: 0.22rem solid var(--book-focus);
+  outline-offset: 0.2rem;
+}
+
+@media (max-width: 40rem) {
+  .source-art-stage {
+    align-items: flex-start;
+    padding: 0 0 6rem;
+  }
+
+  .source-art-image {
+    width: auto;
+    max-height: calc(100vh - 6rem);
+  }
+
+  .publication-grid,
+  .credits-grid,
+  .resource-block {
+    grid-template-columns: 1fr;
+  }
+
+  .publication-grid dd,
+  .credits-grid dd {
+    margin-bottom: 0.75rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+@media print {
+  body,
+  body.source-art-page {
+    background: #ffffff;
+  }
+
+  #interface-container,
+  #nav-container {
+    display: none !important;
+  }
+}
