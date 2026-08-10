@@ -235,6 +235,223 @@ body.source-art-page {
   text-decoration: underline;
 }
 
+.guide-callout {
+  margin: 0 auto 2rem;
+  width: min(100%, 48rem);
+}
+
+.guide-callout img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.picture-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.picture-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin: 0;
+  border: 0.12rem solid var(--book-line);
+  border-radius: 0.8rem;
+  padding: 1rem;
+  background: #ffffff;
+}
+
+.picture-card img {
+  display: block;
+  width: 100%;
+  height: clamp(10rem, 26vw, 18rem);
+  object-fit: contain;
+}
+
+.picture-label {
+  color: var(--book-wine-dark);
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.lesson-gallery {
+  display: grid;
+  gap: clamp(2rem, 5vw, 4rem);
+  margin: 1.5rem auto 2.5rem;
+  width: min(100%, 70rem);
+}
+
+.lesson-figure {
+  margin: 0;
+  text-align: center;
+}
+
+.lesson-figure img {
+  display: block;
+  width: 100%;
+  max-height: 38rem;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.lesson-caption {
+  margin-top: 0.8rem;
+  color: var(--book-ink);
+  font-size: clamp(1.5rem, 3vw, 2.15rem);
+  font-style: italic;
+  line-height: 1.35;
+}
+
+.food-response-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.food-response-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 0;
+  border: 0.12rem solid var(--book-line);
+  border-radius: 0.8rem;
+  padding: 1rem;
+  background: #ffffff;
+}
+
+.food-response-card img {
+  display: block;
+  width: 100%;
+  height: clamp(9rem, 23vw, 16rem);
+  object-fit: contain;
+}
+
+.food-response-card label {
+  color: var(--book-wine-dark);
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.single-response {
+  width: 100%;
+}
+
+.activity-panel {
+  margin-top: 2rem;
+  border: 0.15rem solid #93c5fd;
+  border-radius: 1rem;
+  padding: clamp(1.1rem, 3vw, 2rem);
+  background: #eff8ff;
+}
+
+.activity-panel > :last-child {
+  margin-bottom: 0;
+}
+
+.prompt-block {
+  margin: 1.5rem 0 0.7rem;
+  color: var(--book-ink);
+  font-size: clamp(1.2rem, 2.4vw, 1.6rem);
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+.response-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+}
+
+.response-field {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.response-field label {
+  color: var(--book-wine-dark);
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.response-input,
+.response-textarea {
+  box-sizing: border-box;
+  width: 100%;
+  border: 0.15rem solid #7ca6c2;
+  border-radius: 0.65rem;
+  padding: 0.8rem 0.9rem;
+  background: #ffffff;
+  color: var(--book-ink);
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif !important;
+  font-size: 1.15rem;
+  line-height: 1.45;
+}
+
+.response-textarea {
+  min-height: 8rem;
+  resize: vertical;
+}
+
+.activity-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.8rem;
+  margin-top: 1.5rem;
+}
+
+.activity-button {
+  min-height: 2.9rem;
+  border: 0.15rem solid transparent;
+  border-radius: 999px;
+  padding: 0.65rem 1.35rem;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif !important;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.activity-button-primary {
+  background: var(--book-blue);
+  color: #ffffff;
+}
+
+.activity-button-secondary {
+  border-color: var(--book-blue);
+  background: #ffffff;
+  color: var(--book-blue);
+}
+
+.activity-feedback {
+  min-height: 1.6rem;
+  margin: 0;
+  color: #334155;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif !important;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.activity-feedback[data-state="success"] {
+  color: #166534;
+}
+
+.activity-feedback[data-state="error"] {
+  color: #9f1239;
+}
+
 .instruction,
 .activity-heading,
 .exercise-heading,
@@ -293,6 +510,12 @@ select:focus-visible {
   .publication-grid,
   .credits-grid,
   .resource-block {
+    grid-template-columns: 1fr;
+  }
+
+  .picture-grid,
+  .response-grid,
+  .food-response-grid {
     grid-template-columns: 1fr;
   }
 
