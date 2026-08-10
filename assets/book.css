@@ -39,6 +39,26 @@ body.source-art-page {
 #content.book-content {
   padding: clamp(1.5rem, 4vw, 4rem);
   padding-bottom: clamp(7rem, 12vw, 10rem);
+  font-size: clamp(1.5rem, 2.6vw, 1.75rem);
+  line-height: 1.55;
+}
+
+#content.book-content ol:not(.toc-list),
+#content.book-content ul:not(.toc-list) {
+  margin-block: 0 1.5rem;
+  padding-inline-start: 2.4rem;
+}
+
+#content.book-content ol:not(.toc-list) {
+  list-style: decimal;
+}
+
+#content.book-content ul:not(.toc-list) {
+  list-style: disc;
+}
+
+#content.book-content li + li {
+  margin-top: 0.55rem;
 }
 
 #content.source-art-content {
@@ -84,7 +104,7 @@ body.source-art-page {
   margin: 0 0 0.4rem;
   color: var(--book-wine);
   font-family: "Atkinson Hyperlegible", Arial, sans-serif;
-  font-size: clamp(1rem, 2.2vw, 1.25rem);
+  font-size: clamp(1.35rem, 2.4vw, 1.6rem);
   font-weight: 700;
   letter-spacing: 0.045em;
   text-transform: uppercase;
@@ -277,7 +297,7 @@ body.source-art-page {
 .picture-label {
   color: var(--book-wine-dark);
   font-family: "Atkinson Hyperlegible", Arial, sans-serif;
-  font-size: 1.25rem;
+  font-size: clamp(1.5rem, 2.6vw, 1.75rem);
   font-weight: 700;
 }
 
@@ -357,7 +377,7 @@ body.source-art-page {
 .food-response-card label {
   color: var(--book-wine-dark);
   font-family: "Atkinson Hyperlegible", Arial, sans-serif;
-  font-size: 1.1rem;
+  font-size: clamp(1.35rem, 2.4vw, 1.6rem);
   font-weight: 700;
 }
 
@@ -584,7 +604,7 @@ body.source-art-page {
   margin: 0 0 0.65rem;
   color: var(--book-wine-dark);
   font-family: "Atkinson Hyperlegible", Arial, sans-serif;
-  font-size: 1.2rem;
+  font-size: clamp(1.5rem, 2.6vw, 1.75rem);
   font-weight: 700;
 }
 
@@ -611,7 +631,7 @@ body.source-art-page {
 .drawing-alternative-label {
   color: #334155;
   font-family: "Atkinson Hyperlegible", Arial, sans-serif;
-  font-size: 1rem;
+  font-size: clamp(1.25rem, 2.2vw, 1.5rem);
   font-weight: 700;
 }
 
@@ -634,7 +654,7 @@ body.source-art-page {
   margin: 0.45rem 0 0;
   color: #166534;
   font-family: "Atkinson Hyperlegible", Arial, sans-serif;
-  font-size: 0.95rem;
+  font-size: clamp(1.25rem, 2.2vw, 1.5rem);
   font-weight: 700;
 }
 
@@ -648,7 +668,7 @@ body.source-art-page {
 .response-field label {
   color: var(--book-wine-dark);
   font-family: "Atkinson Hyperlegible", Arial, sans-serif;
-  font-size: 1.1rem;
+  font-size: clamp(1.25rem, 2.2vw, 1.5rem);
   font-weight: 700;
 }
 
@@ -662,7 +682,7 @@ body.source-art-page {
   background: #ffffff;
   color: var(--book-ink);
   font-family: "Atkinson Hyperlegible", Arial, sans-serif !important;
-  font-size: 1.15rem;
+  font-size: clamp(1.25rem, 2.2vw, 1.5rem);
   line-height: 1.45;
 }
 
@@ -685,7 +705,7 @@ body.source-art-page {
   border-radius: 999px;
   padding: 0.65rem 1.35rem;
   font-family: "Atkinson Hyperlegible", Arial, sans-serif !important;
-  font-size: 1rem;
+  font-size: clamp(1.25rem, 2.2vw, 1.5rem);
   font-weight: 700;
   cursor: pointer;
 }
@@ -706,7 +726,7 @@ body.source-art-page {
   margin: 0;
   color: #334155;
   font-family: "Atkinson Hyperlegible", Arial, sans-serif !important;
-  font-size: 1rem;
+  font-size: clamp(1.25rem, 2.2vw, 1.5rem);
   font-weight: 700;
 }
 
