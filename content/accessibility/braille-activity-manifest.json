@@ -8,9 +8,9 @@
   "sixKeyInputEnabled": false,
   "activationRule": "Usiwashe tafsiri ya vitufe sita kabla mtaalamu wa Breli wa Tanzania hajathibitisha msimbo, jedwali na kanuni za tathmini.",
   "summary": {
-    "activities": 23,
-    "nativeKeyboardOrBrailleAlternatives": 23,
-    "tactileResourceRequired": 23,
+    "activities": 24,
+    "nativeKeyboardOrBrailleAlternatives": 24,
+    "tactileResourceRequired": 24,
     "sixKeyPilotCandidates": 0
   },
   "activities": [
@@ -640,6 +640,34 @@
       "expectedResponses": 2,
       "taskType": "picture-explanation-and-open-response",
       "expectedResponseType": "native-text-or-braille",
+      "inputMethods": ["keyboard", "braille-display", "touch", "stylus"],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-024",
+      "href": "pg037038_sec001.html",
+      "sectionId": "pg037038_sec001",
+      "sectionTitle": "Shughuli ya kufanya 2",
+      "sourcePages": [37, 38],
+      "printedPages": "31-32",
+      "expectedResponses": 5,
+      "taskType": "practical-performance-multiple-models",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": ["keyboard", "braille-display", "touch", "stylus"],
       "nativeBrailleInputAvailable": true,
       "tactileResourceRequired": true,
