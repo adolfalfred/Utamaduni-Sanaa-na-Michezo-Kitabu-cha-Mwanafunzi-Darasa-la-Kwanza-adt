@@ -342,6 +342,14 @@ body.source-art-page {
   font-weight: 700;
 }
 
+.full-span-card {
+  grid-column: 1 / -1;
+}
+
+.full-span-card img {
+  height: clamp(12rem, 34vw, 24rem);
+}
+
 .single-response {
   width: 100%;
 }
@@ -409,6 +417,32 @@ body.source-art-page {
 
 .poem-lines span {
   display: block;
+}
+
+.song-panel {
+  margin: 1.5rem auto 2.5rem;
+  border: 0.15rem solid #71a663;
+  border-radius: 2rem;
+  padding: clamp(1rem, 3vw, 2rem);
+  background: #dff2d4;
+}
+
+.song-panel .song-heading {
+  margin-inline: auto;
+  width: min(100%, 30rem);
+  text-align: center;
+}
+
+.song-verses {
+  color: var(--book-ink);
+  font-size: clamp(1.25rem, 2.8vw, 1.9rem);
+  font-style: italic;
+  line-height: 1.55;
+  text-align: center;
+}
+
+.song-verses p {
+  margin: 1.4rem 0 0;
 }
 
 .chapter-banner {
