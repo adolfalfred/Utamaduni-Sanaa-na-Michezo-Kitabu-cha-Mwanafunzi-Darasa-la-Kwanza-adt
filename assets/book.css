@@ -542,6 +542,11 @@ body.source-art-page {
   gap: 0.9rem;
 }
 
+.response-list {
+  display: grid;
+  gap: 0.9rem;
+}
+
 .response-field {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
