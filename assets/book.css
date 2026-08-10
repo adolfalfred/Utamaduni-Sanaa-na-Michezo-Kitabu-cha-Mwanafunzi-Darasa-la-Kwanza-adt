@@ -547,6 +547,78 @@ body.source-art-page {
   gap: 0.9rem;
 }
 
+.drawing-response-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.drawing-response-card {
+  min-width: 0;
+  border: 0.15rem solid #7ca6c2;
+  border-radius: 0.9rem;
+  padding: 0.9rem;
+  background: #ffffff;
+}
+
+.drawing-response-label {
+  margin: 0 0 0.65rem;
+  color: var(--book-wine-dark);
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.drawing-canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 0.15rem dashed #64748b;
+  border-radius: 0.65rem;
+  background: #ffffff;
+  cursor: crosshair;
+  touch-action: none;
+}
+
+.drawing-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.7rem;
+  margin: 0.75rem 0;
+}
+
+.drawing-colour-label,
+.drawing-alternative-label {
+  color: #334155;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.drawing-colour {
+  width: 3rem;
+  height: 2.5rem;
+  border: 0.12rem solid #64748b;
+  border-radius: 0.45rem;
+  padding: 0.15rem;
+  background: #ffffff;
+}
+
+.drawing-alternative {
+  min-height: 4.75rem;
+  margin-top: 0.35rem;
+}
+
+.drawing-status {
+  min-height: 1.4rem;
+  margin: 0.45rem 0 0;
+  color: #166534;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
 .response-field {
   display: grid;
   grid-template-columns: auto minmax(0, 1fr);
@@ -690,6 +762,7 @@ select:focus-visible {
 
   .picture-grid,
   .response-grid,
+  .drawing-response-grid,
   .food-response-grid,
   .portrait-grid,
   .instrument-grid {
