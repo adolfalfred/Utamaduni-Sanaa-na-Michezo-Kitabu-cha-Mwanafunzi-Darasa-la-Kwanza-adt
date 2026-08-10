@@ -346,6 +346,71 @@ body.source-art-page {
   width: 100%;
 }
 
+.portrait-grid,
+.instrument-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.portrait-card,
+.instrument-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin: 0;
+  border: 0.12rem solid var(--book-line);
+  border-radius: 0.8rem;
+  padding: 1rem;
+  background: #ffffff;
+  text-align: center;
+}
+
+.portrait-card img {
+  display: block;
+  width: 100%;
+  height: clamp(24rem, 50vw, 38rem);
+  object-fit: contain;
+}
+
+.instrument-card img {
+  display: block;
+  width: 100%;
+  height: clamp(10rem, 24vw, 17rem);
+  object-fit: contain;
+}
+
+.portrait-card figcaption,
+.instrument-card figcaption {
+  color: var(--book-ink);
+  font-size: clamp(1.35rem, 2.8vw, 2rem);
+  font-style: italic;
+  line-height: 1.35;
+}
+
+.poem-panel {
+  margin: 1.5rem 0 2.5rem;
+  border-left: 0.5rem solid var(--book-green);
+  padding: clamp(1rem, 3vw, 2rem);
+  background: #f1f8ef;
+}
+
+.poem-lines {
+  margin: 0;
+  color: var(--book-ink);
+  font-size: clamp(1.35rem, 3vw, 2rem);
+  font-style: italic;
+  line-height: 1.65;
+}
+
+.poem-lines span {
+  display: block;
+}
+
 .activity-panel {
   margin-top: 2rem;
   border: 0.15rem solid #93c5fd;
@@ -515,7 +580,9 @@ select:focus-visible {
 
   .picture-grid,
   .response-grid,
-  .food-response-grid {
+  .food-response-grid,
+  .portrait-grid,
+  .instrument-grid {
     grid-template-columns: 1fr;
   }
 
