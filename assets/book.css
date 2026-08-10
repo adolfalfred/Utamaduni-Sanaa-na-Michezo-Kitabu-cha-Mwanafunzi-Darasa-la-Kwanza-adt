@@ -36,6 +36,11 @@ body.source-art-page {
   max-width: 80rem;
 }
 
+#content.container {
+  margin-inline: auto;
+  max-width: 80rem;
+}
+
 #content.book-content {
   padding: clamp(1.5rem, 4vw, 4rem);
   padding-bottom: clamp(7rem, 12vw, 10rem);
@@ -62,7 +67,6 @@ body.source-art-page {
 }
 
 #content.source-art-content {
-  max-width: none;
   min-height: 100vh;
   padding: 0;
 }
