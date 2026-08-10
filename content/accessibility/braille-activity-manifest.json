@@ -8,9 +8,9 @@
   "sixKeyInputEnabled": false,
   "activationRule": "Usiwashe tafsiri ya vitufe sita kabla mtaalamu wa Breli wa Tanzania hajathibitisha msimbo, jedwali na kanuni za tathmini.",
   "summary": {
-    "activities": 44,
-    "nativeKeyboardOrBrailleAlternatives": 44,
-    "tactileResourceRequired": 44,
+    "activities": 69,
+    "nativeKeyboardOrBrailleAlternatives": 69,
+    "tactileResourceRequired": 69,
     "sixKeyPilotCandidates": 0
   },
   "activities": [
@@ -1536,6 +1536,881 @@
       "printedPages": "54",
       "expectedResponses": 1,
       "taskType": "dance-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-045",
+      "href": "pg067_sec001.html",
+      "sectionId": "pg067_sec001",
+      "sectionTitle": "Shughuli ya kufanya 1: Kujinyoosha",
+      "sourcePages": [
+        67
+      ],
+      "printedPages": "61",
+      "expectedResponses": 1,
+      "taskType": "physical-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-046",
+      "href": "pg067069_sec002.html",
+      "sectionId": "pg067069_sec002",
+      "sectionTitle": "Tucheze mchezo wa simama kaa",
+      "sourcePages": [
+        69
+      ],
+      "printedPages": "63",
+      "expectedResponses": 1,
+      "taskType": "physical-game",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-047",
+      "href": "pg070073_sec001.html",
+      "sectionId": "pg070073_sec001",
+      "sectionTitle": "Tucheze mchezo wa mdako",
+      "sourcePages": [
+        73
+      ],
+      "printedPages": "67",
+      "expectedResponses": 1,
+      "taskType": "physical-game",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-048",
+      "href": "pg074075_sec001.html",
+      "sectionId": "pg074075_sec001",
+      "sectionTitle": "Tucheze mchezo wa kuruka viunzi",
+      "sourcePages": [
+        75
+      ],
+      "printedPages": "69",
+      "expectedResponses": 1,
+      "taskType": "reflection",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-049",
+      "href": "pg074075_sec001.html",
+      "sectionId": "pg074075_sec001",
+      "sectionTitle": "Tucheze mchezo wa kuruka viunzi",
+      "sourcePages": [
+        75
+      ],
+      "printedPages": "69",
+      "expectedResponses": 1,
+      "taskType": "physical-game",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-050",
+      "href": "pg076_sec001.html",
+      "sectionId": "pg076_sec001",
+      "sectionTitle": "Tucheze mchezo wa nyama nyama nyama",
+      "sourcePages": [
+        76
+      ],
+      "printedPages": "70",
+      "expectedResponses": 6,
+      "taskType": "picture-identification",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-051",
+      "href": "pg077080_sec001.html",
+      "sectionId": "pg077080_sec001",
+      "sectionTitle": "Tuimbe na kucheza wimbo wa nyama nyama nyama",
+      "sourcePages": [
+        77
+      ],
+      "printedPages": "71",
+      "expectedResponses": 3,
+      "taskType": "oral-call-and-response",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-052",
+      "href": "pg077080_sec001.html",
+      "sectionId": "pg077080_sec001",
+      "sectionTitle": "Tuimbe na kucheza wimbo wa nyama nyama nyama",
+      "sourcePages": [
+        80
+      ],
+      "printedPages": "74",
+      "expectedResponses": 1,
+      "taskType": "physical-game",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-053",
+      "href": "pg081082_sec001.html",
+      "sectionId": "pg081082_sec001",
+      "sectionTitle": "Tucheze mchezo wa kusimama kwa mguu mmoja",
+      "sourcePages": [
+        82
+      ],
+      "printedPages": "76",
+      "expectedResponses": 1,
+      "taskType": "reason",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-054",
+      "href": "pg081082_sec001.html",
+      "sectionId": "pg081082_sec001",
+      "sectionTitle": "Tucheze mchezo wa kusimama kwa mguu mmoja",
+      "sourcePages": [
+        82
+      ],
+      "printedPages": "76",
+      "expectedResponses": 1,
+      "taskType": "physical-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-055",
+      "href": "pg083_sec001.html",
+      "sectionId": "pg083_sec001",
+      "sectionTitle": "Tucheze mchezo wa kutembea juu ya ubao",
+      "sourcePages": [
+        83
+      ],
+      "printedPages": "77",
+      "expectedResponses": 3,
+      "taskType": "reflection-and-reason",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-056",
+      "href": "pg084086_sec001.html",
+      "sectionId": "pg084086_sec001",
+      "sectionTitle": "Tucheze mchezo wa kipande wa mguu mmoja",
+      "sourcePages": [
+        86
+      ],
+      "printedPages": "80",
+      "expectedResponses": 1,
+      "taskType": "physical-game",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-057",
+      "href": "pg087088_sec001.html",
+      "sectionId": "pg087088_sec001",
+      "sectionTitle": "Tucheze mchezo wa kusimama kwa mikono",
+      "sourcePages": [
+        88
+      ],
+      "printedPages": "82",
+      "expectedResponses": 1,
+      "taskType": "physical-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-058",
+      "href": "pg089090_sec001.html",
+      "sectionId": "pg089090_sec001",
+      "sectionTitle": "Kujiviringisha kwa kwenda mbele",
+      "sourcePages": [
+        90
+      ],
+      "printedPages": "84",
+      "expectedResponses": 1,
+      "taskType": "physical-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-059",
+      "href": "pg091092_sec001.html",
+      "sectionId": "pg091092_sec001",
+      "sectionTitle": "Kujiviringisha kwa kurudi nyuma",
+      "sourcePages": [
+        92
+      ],
+      "printedPages": "86",
+      "expectedResponses": 3,
+      "taskType": "comparison-and-reason",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-060",
+      "href": "pg091092_sec001.html",
+      "sectionId": "pg091092_sec001",
+      "sectionTitle": "Kujiviringisha kwa kurudi nyuma",
+      "sourcePages": [
+        92
+      ],
+      "printedPages": "86",
+      "expectedResponses": 1,
+      "taskType": "physical-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-061",
+      "href": "pg093094_sec001.html",
+      "sectionId": "pg093094_sec001",
+      "sectionTitle": "Tucheze mchezo wa kuchukua kwa haraka",
+      "sourcePages": [
+        94
+      ],
+      "printedPages": "88",
+      "expectedResponses": 1,
+      "taskType": "reflection",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-062",
+      "href": "pg093094_sec001.html",
+      "sectionId": "pg093094_sec001",
+      "sectionTitle": "Tucheze mchezo wa kuchukua kwa haraka",
+      "sourcePages": [
+        94
+      ],
+      "printedPages": "88",
+      "expectedResponses": 1,
+      "taskType": "physical-game",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-063",
+      "href": "pg094096_sec002.html",
+      "sectionId": "pg094096_sec002",
+      "sectionTitle": "Kuruka kamba kwa miguu miwili",
+      "sourcePages": [
+        96
+      ],
+      "printedPages": "90",
+      "expectedResponses": 1,
+      "taskType": "physical-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-064",
+      "href": "pg097_sec001.html",
+      "sectionId": "pg097_sec001",
+      "sectionTitle": "Kuruka kamba kwa mguu mmoja",
+      "sourcePages": [
+        97
+      ],
+      "printedPages": "91",
+      "expectedResponses": 1,
+      "taskType": "physical-performance",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-065",
+      "href": "pg098_sec001.html",
+      "sectionId": "pg098_sec001",
+      "sectionTitle": "Kuruka kamba watu wawili na zaidi",
+      "sourcePages": [
+        98
+      ],
+      "printedPages": "92",
+      "expectedResponses": 2,
+      "taskType": "open-response-and-reason",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-066",
+      "href": "pg099100_sec001.html",
+      "sectionId": "pg099100_sec001",
+      "sectionTitle": "Tucheze mchezo wa visanduku",
+      "sourcePages": [
+        100
+      ],
+      "printedPages": "94",
+      "expectedResponses": 1,
+      "taskType": "reflection",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-067",
+      "href": "pg099100_sec001.html",
+      "sectionId": "pg099100_sec001",
+      "sectionTitle": "Tucheze mchezo wa visanduku",
+      "sourcePages": [
+        100
+      ],
+      "printedPages": "94",
+      "expectedResponses": 1,
+      "taskType": "physical-game",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-068",
+      "href": "pg101102_sec001.html",
+      "sectionId": "pg101102_sec001",
+      "sectionTitle": "Tucheze mchezo wa kapu la matunda",
+      "sourcePages": [
+        102
+      ],
+      "printedPages": "96",
+      "expectedResponses": 3,
+      "taskType": "reflection-and-reason",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "activity-069",
+      "href": "pg101102_sec001.html",
+      "sectionId": "pg101102_sec001",
+      "sectionTitle": "Tucheze mchezo wa kapu la matunda",
+      "sourcePages": [
+        102
+      ],
+      "printedPages": "96",
+      "expectedResponses": 1,
+      "taskType": "physical-game",
       "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
         "keyboard",
