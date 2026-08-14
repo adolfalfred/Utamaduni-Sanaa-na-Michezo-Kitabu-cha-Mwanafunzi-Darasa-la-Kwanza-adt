@@ -623,6 +623,10 @@ body.source-art-page {
   object-fit: contain;
 }
 
+.rolling-step-figure-narrow {
+  width: min(100%, 28rem);
+}
+
 .lesson-figure {
   margin: 0;
   text-align: center;
