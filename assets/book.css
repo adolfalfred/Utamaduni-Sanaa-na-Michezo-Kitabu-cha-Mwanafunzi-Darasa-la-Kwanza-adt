@@ -498,13 +498,15 @@ body.source-art-page {
 }
 
 .mdako-source-figure,
-.mdako-step-figure {
+.mdako-step-figure,
+.game-step-figure {
   width: min(100%, 64rem);
   margin: 1.5rem auto 2.5rem;
 }
 
 .mdako-source-figure img,
-.mdako-step-figure img {
+.mdako-step-figure img,
+.game-step-figure img {
   display: block;
   width: 100%;
   max-height: 42rem;
@@ -512,18 +514,21 @@ body.source-art-page {
   object-fit: contain;
 }
 
-.mdako-step-list {
+.mdako-step-list,
+.game-step-list {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   gap: clamp(2rem, 5vw, 4rem);
   margin: 1.5rem 0 2.5rem;
 }
 
-.mdako-step {
+.mdako-step,
+.game-step {
   min-width: 0;
 }
 
-.mdako-step-instruction {
+.mdako-step-instruction,
+.game-step-instruction {
   margin: 0;
   color: var(--book-ink);
   font-family: "Atkinson Hyperlegible", Arial, sans-serif;
@@ -532,7 +537,8 @@ body.source-art-page {
   line-height: 1.55;
 }
 
-.mdako-step-figure {
+.mdako-step-figure,
+.game-step-figure {
   margin-top: 0.8rem;
 }
 
