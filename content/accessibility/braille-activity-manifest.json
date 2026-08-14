@@ -507,8 +507,8 @@
         28
       ],
       "printedPages": "22",
-      "expectedResponses": 2,
-      "taskType": "picture-explanation",
+      "expectedResponses": 1,
+      "taskType": "single-open-response-about-two-lesson-images",
       "expectedResponseType": "native-text-or-braille",
       "inputMethods": [
         "keyboard",

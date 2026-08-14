@@ -467,6 +467,22 @@ body.source-art-page {
   object-fit: contain;
 }
 
+.greeting-picture-grid {
+  width: min(100%, 60rem);
+  margin-inline: auto;
+}
+
+.greeting-picture-grid .picture-card {
+  justify-content: flex-start;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+}
+
+.greeting-picture-grid .picture-card img {
+  height: clamp(16rem, 36vw, 30rem);
+}
+
 .picture-label {
   color: var(--book-wine-dark);
   font-family: "Atkinson Hyperlegible", Arial, sans-serif;
