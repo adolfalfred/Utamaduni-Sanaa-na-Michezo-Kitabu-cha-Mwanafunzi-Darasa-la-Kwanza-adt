@@ -9,7 +9,7 @@
   "activationRule": "Usiwashe tafsiri ya vitufe sita kabla mtaalamu wa Breli wa Tanzania hajathibitisha msimbo, jedwali na kanuni za tathmini.",
   "summary": {
     "activities": 69,
-    "nativeKeyboardOrBrailleAlternatives": 41,
+    "nativeKeyboardOrBrailleAlternatives": 40,
     "tactileResourceRequired": 69,
     "sixKeyPilotCandidates": 0
   },
@@ -1156,16 +1156,13 @@
         49
       ],
       "printedPages": "43",
-      "expectedResponses": 1,
+      "expectedResponses": 0,
       "taskType": "press-printmaking",
-      "expectedResponseType": "teacher-reviewed-completion-or-description",
+      "expectedResponseType": "physical-leaf-printing-no-written-response",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "physical-performance"
       ],
-      "nativeBrailleInputAvailable": true,
+      "nativeBrailleInputAvailable": false,
       "tactileResourceRequired": true,
       "tactileResourceDecision": null,
       "sixKeyPilotCandidate": false,
