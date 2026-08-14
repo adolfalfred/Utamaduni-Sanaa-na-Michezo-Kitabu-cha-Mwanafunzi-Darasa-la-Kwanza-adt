@@ -750,6 +750,15 @@ body.source-art-page {
   margin: 1.4rem 0 0;
 }
 
+#content .song-repeat-marker {
+  display: inline-block;
+  margin-left: 0.15em;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
 .split-guide-callout {
   display: grid;
   grid-template-columns: minmax(5rem, 9rem) minmax(0, 1fr);
