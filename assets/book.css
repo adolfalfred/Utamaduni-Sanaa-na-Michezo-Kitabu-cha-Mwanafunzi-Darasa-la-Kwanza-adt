@@ -502,6 +502,10 @@ body.source-art-page {
   text-align: center;
 }
 
+.lesson-section-spaced {
+  margin-top: 1.5rem;
+}
+
 .lesson-figure img {
   display: block;
   width: 100%;
