@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_1" version="17"
+<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_1" version="18"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -304,8 +304,6 @@
       <file href="content/i18n/sw-TZ/audio/pg021_n0004.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg021_n0005.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg021_n0006.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg021_n0007.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg021_n0008.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg022023_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg022023_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg022023_im003.mp3"/>
