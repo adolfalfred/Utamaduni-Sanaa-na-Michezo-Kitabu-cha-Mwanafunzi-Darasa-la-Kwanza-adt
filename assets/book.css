@@ -594,6 +594,35 @@ body.source-art-page {
   width: min(100%, 48rem);
 }
 
+.rolling-step-group {
+  margin: 0 0 2.75rem;
+}
+
+.rolling-step-instructions {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.rolling-mode-list {
+  margin-bottom: 2.5rem;
+}
+
+.rolling-step-instructions .game-step-instruction {
+  margin: 0;
+}
+
+.rolling-step-figure {
+  width: min(100%, 60rem);
+  margin: 1rem auto 0;
+}
+
+.rolling-step-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
 .lesson-figure {
   margin: 0;
   text-align: center;
