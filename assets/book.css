@@ -388,14 +388,18 @@ body.source-art-page {
 }
 
 .resource-block {
+  margin-top: 2rem;
+}
+
+.resource-footer {
   display: grid;
   grid-template-columns: minmax(7rem, 10rem) minmax(0, 1fr);
-  align-items: center;
-  gap: 1.25rem;
-  margin-top: 2rem;
-  border-left: 0.5rem solid var(--book-blue);
-  padding: 1rem;
-  background: var(--book-sky-soft);
+  align-items: end;
+  gap: clamp(1.5rem, 5vw, 4rem);
+}
+
+.resource-qr-wrap {
+  min-width: 0;
 }
 
 .resource-qr {
@@ -405,15 +409,22 @@ body.source-art-page {
 }
 
 .resource-copy {
-  margin: 0;
+  margin: 0 0 0.9rem;
 }
 
 .resource-copy a {
-  color: #075985;
-  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
-  font-weight: 700;
+  color: inherit;
+  font-family: inherit;
+  font-style: italic;
+  font-weight: inherit;
   overflow-wrap: anywhere;
-  text-decoration: underline;
+  text-decoration: none;
+}
+
+.institution-credit {
+  margin: 0;
+  padding-bottom: 0.25rem;
+  text-align: right;
 }
 
 .guide-callout {
@@ -937,8 +948,12 @@ select:focus-visible {
 
   .publication-grid,
   .credits-grid,
-  .resource-block {
+  .resource-footer {
     grid-template-columns: 1fr;
+  }
+
+  .institution-credit {
+    text-align: left;
   }
 
   .picture-grid,
