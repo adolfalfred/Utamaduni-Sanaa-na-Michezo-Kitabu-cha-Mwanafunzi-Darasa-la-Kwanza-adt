@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_1" version="20"
+<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_1" version="21"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -382,8 +382,6 @@
       <file href="content/i18n/sw-TZ/audio/pg030_n0009.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg030_n0010.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg030_n0011.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg030_n0012.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg030_n0013.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg031033_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg031033_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg031033_im003.mp3"/>
@@ -403,8 +401,6 @@
       <file href="content/i18n/sw-TZ/audio/pg031033_n0012.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg031033_n0013.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg031033_n0014.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg031033_n0015.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg031033_n0016.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg034_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg034_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg034_n0001.mp3"/>
@@ -415,8 +411,6 @@
       <file href="content/i18n/sw-TZ/audio/pg034_n0006.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg034_n0007.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg034_n0008.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg034_n0009.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg034_n0010.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg035_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg035_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg035_im003.mp3"/>
@@ -491,8 +485,6 @@
       <file href="content/i18n/sw-TZ/audio/pg041_n0009.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg041_n0010.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg041_n0011.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg041_n0012.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg041_n0013.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg042_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg042_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg042_im003.mp3"/>
@@ -533,8 +525,6 @@
       <file href="content/i18n/sw-TZ/audio/pg044_n0011.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg044_n0012.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg044_n0013.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg044_n0014.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg044_n0015.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg045046_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg045046_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg045046_im003.mp3"/>
@@ -592,7 +582,6 @@
       <file href="content/i18n/sw-TZ/audio/pg051052_n0013.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg051052_n0014.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg051052_n0015.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg051052_n0016.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg053_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg053_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg053_n0001.mp3"/>
@@ -619,7 +608,6 @@
       <file href="content/i18n/sw-TZ/audio/pg054_n0016.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg054_n0017.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg054_n0018.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg054_n0019.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg055056_n0001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg055056_n0002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg055056_n0003.mp3"/>
@@ -632,7 +620,6 @@
       <file href="content/i18n/sw-TZ/audio/pg055056_n0010.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg055056_n0011.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg055056_n0012.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg055056_n0013.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg056_n0001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg056_n0002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg056_n0003.mp3"/>
@@ -698,7 +685,6 @@
       <file href="content/i18n/sw-TZ/audio/pg060b_n0001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg060b_n0002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg060b_n0003.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg060b_n0004.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg061062_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg061062_n0001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg061062_n0002.mp3"/>
@@ -784,11 +770,9 @@
       <file href="content/i18n/sw-TZ/audio/pg067069_n0011.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg067069_n0012.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg067069_n0013.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg067069_n0014.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg067a_n0001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg067a_n0002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg067a_n0003.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg067a_n0004.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg070073_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg070073_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg070073_im003.mp3"/>
@@ -813,7 +797,6 @@
       <file href="content/i18n/sw-TZ/audio/pg070073_n0016.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg070073_n0017.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg070073_n0018.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg070073_n0019.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg074075_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg074075_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg074075_im003.mp3"/>
