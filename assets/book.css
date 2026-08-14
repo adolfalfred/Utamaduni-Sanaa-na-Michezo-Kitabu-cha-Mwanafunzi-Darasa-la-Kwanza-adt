@@ -307,6 +307,25 @@ body.source-art-page {
   margin: 0;
 }
 
+.director-signature-block {
+  margin-top: 1.5rem;
+}
+
+.director-signature {
+  display: block;
+  width: min(16.375rem, 58vw);
+  height: auto;
+  margin: 0 0 0.65rem;
+  object-fit: contain;
+  object-position: left center;
+}
+
+#content .source-acronym {
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-style: normal;
+  letter-spacing: 0.01em;
+}
+
 .toc-list {
   display: grid;
   gap: 1rem;
