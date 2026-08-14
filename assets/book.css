@@ -563,6 +563,37 @@ body.source-art-page {
   max-height: none;
 }
 
+.pg087088-step-list {
+  grid-template-columns: minmax(0, 0.6fr) minmax(0, 1fr);
+  align-items: start;
+}
+
+.pg087088-step:first-child .pg087088-step-figure {
+  width: min(100%, 20rem);
+}
+
+.pg087088-step:nth-child(2) .pg087088-step-figure {
+  width: min(100%, 36rem);
+}
+
+.pg087088-step-figure img,
+.pg087088-final-figure img {
+  width: 100%;
+  max-height: none;
+}
+
+.pg087088-standalone-step {
+  margin: 0 0 2.5rem;
+}
+
+.pg087088-final-step {
+  margin-bottom: 2rem;
+}
+
+.pg087088-final-figure {
+  width: min(100%, 48rem);
+}
+
 .lesson-figure {
   margin: 0;
   text-align: center;
@@ -1143,6 +1174,10 @@ select:focus-visible {
   }
 
   .pg081082-step-list {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .pg087088-step-list {
     grid-template-columns: minmax(0, 1fr);
   }
 
