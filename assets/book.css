@@ -553,6 +553,10 @@ body.source-art-page {
   object-fit: contain;
 }
 
+.pg074075-materials-figure img {
+  max-height: 52rem;
+}
+
 .lesson-caption {
   margin-top: 0.8rem;
   color: var(--book-ink);
