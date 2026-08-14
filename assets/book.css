@@ -835,6 +835,10 @@ body.source-art-page {
   gap: 1rem;
 }
 
+.drawing-response-grid-single-column {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .drawing-response-card {
   min-width: 0;
   border: 0.15rem solid #7ca6c2;
