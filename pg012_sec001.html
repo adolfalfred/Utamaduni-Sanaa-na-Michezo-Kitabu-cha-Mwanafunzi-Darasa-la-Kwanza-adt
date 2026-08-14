@@ -26,31 +26,61 @@
         <div class="activity-panel" data-activity-id="activity-003" data-scoring-policy="teacher-review">
           <p class="prompt-block" id="pg012-prompt-1" data-id="pg012_n0002">1. Taja jamii mojawapo inayokula chakula kinachoonekana kwenye picha zifuatazo:</p>
 
-          <div class="food-response-grid" aria-labelledby="pg012-prompt-1">
-            <figure class="food-response-card">
-              <img src="./images/pg012_im001.png" alt="Ndizi zilizopikwa na nyama katika mchuzi." data-id="pg012_im001">
-              <span class="sr-only" aria-hidden="true" data-audio-description-for="pg012_im001" data-id="pg012_im001_audio_description">Sahani ya kijani ina ndizi zilizopikwa pamoja na vipande vya nyama kwenye mchuzi wa kahawia.</span>
-              <label for="pg012-answer-a" data-id="pg012_n0003">(a) Jamii</label>
-              <input class="response-input" id="pg012-answer-a" data-aria-id="pg012_answer_0001" data-response data-braille-native="true" type="text" autocomplete="off" aria-label="Jamii inayokula chakula katika picha a">
-            </figure>
-            <figure class="food-response-card">
-              <img src="./images/pg012_im002.png" alt="Mkono ukichovya ugali katika mboga ya kijani." data-id="pg012_im002">
-              <span class="sr-only" aria-hidden="true" data-audio-description-for="pg012_im002" data-id="pg012_im002_audio_description">Kwenye sahani ya waridi kuna ugali mweupe. Mkono unachovya kipande cha ugali kwenye bakuli la mboga ya kijani.</span>
-              <label for="pg012-answer-b" data-id="pg012_n0004">(b) Jamii</label>
-              <input class="response-input" id="pg012-answer-b" data-aria-id="pg012_answer_0002" data-response data-braille-native="true" type="text" autocomplete="off" aria-label="Jamii inayokula chakula katika picha b">
-            </figure>
-            <figure class="food-response-card">
-              <img src="./images/pg012_im003.png" alt="Mguu wa nyama na vibuyu viwili." data-id="pg012_im003">
-              <span class="sr-only" aria-hidden="true" data-audio-description-for="pg012_im003" data-id="pg012_im003_audio_description">Mguu mkubwa wa nyama uliopikwa umewekwa mbele ya vibuyu viwili vya kahawia.</span>
-              <label for="pg012-answer-c" data-id="pg012_n0005">(c) Jamii</label>
-              <input class="response-input" id="pg012-answer-c" data-aria-id="pg012_answer_0003" data-response data-braille-native="true" type="text" autocomplete="off" aria-label="Jamii inayokula chakula katika picha c">
-            </figure>
-            <figure class="food-response-card">
-              <img src="./images/pg012_im004.png" alt="Samaki na wali kwenye sahani ya samawati." data-id="pg012_im004">
-              <span class="sr-only" aria-hidden="true" data-audio-description-for="pg012_im004" data-id="pg012_im004_audio_description">Samaki mkubwa aliyepikwa amewekwa juu ya wali mweupe na mboga za majani kwenye sahani ya samawati.</span>
-              <label for="pg012-answer-d" data-id="pg012_n0006">(d) Jamii</label>
-              <input class="response-input" id="pg012-answer-d" data-aria-id="pg012_answer_0004" data-response data-braille-native="true" type="text" autocomplete="off" aria-label="Jamii inayokula chakula katika picha d">
-            </figure>
+          <div class="food-answer-table-wrap">
+            <table class="food-answer-table" aria-labelledby="pg012-prompt-1">
+              <colgroup>
+                <col class="food-answer-column">
+                <col class="food-picture-column">
+              </colgroup>
+              <thead>
+                <tr>
+                  <th scope="col" data-id="pg012_n0010">Jamii</th>
+                  <th scope="col" data-id="pg012_n0011">Picha ya chakula</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th class="food-answer-cell" scope="row">
+                    <label for="pg012-answer-a" data-id="pg012_n0003">(a)</label>
+                    <input class="response-input" id="pg012-answer-a" data-aria-id="pg012_answer_0001" data-response data-braille-native="true" type="text" autocomplete="off" aria-label="Jamii inayokula chakula katika picha a">
+                  </th>
+                  <td class="food-picture-cell">
+                    <img src="./images/pg012_im001.png" alt="Ndizi zilizopikwa na nyama katika mchuzi." data-id="pg012_im001">
+                    <span class="sr-only" aria-hidden="true" data-audio-description-for="pg012_im001" data-id="pg012_im001_audio_description">Sahani ya kijani ina ndizi zilizopikwa pamoja na vipande vya nyama kwenye mchuzi wa kahawia.</span>
+                  </td>
+                </tr>
+                <tr>
+                  <th class="food-answer-cell" scope="row">
+                    <label for="pg012-answer-b" data-id="pg012_n0004">(b)</label>
+                    <input class="response-input" id="pg012-answer-b" data-aria-id="pg012_answer_0002" data-response data-braille-native="true" type="text" autocomplete="off" aria-label="Jamii inayokula chakula katika picha b">
+                  </th>
+                  <td class="food-picture-cell">
+                    <img src="./images/pg012_im002.png" alt="Mkono ukichovya ugali katika mboga ya kijani." data-id="pg012_im002">
+                    <span class="sr-only" aria-hidden="true" data-audio-description-for="pg012_im002" data-id="pg012_im002_audio_description">Kwenye sahani ya waridi kuna ugali mweupe. Mkono unachovya kipande cha ugali kwenye bakuli la mboga ya kijani.</span>
+                  </td>
+                </tr>
+                <tr>
+                  <th class="food-answer-cell" scope="row">
+                    <label for="pg012-answer-c" data-id="pg012_n0005">(c)</label>
+                    <input class="response-input" id="pg012-answer-c" data-aria-id="pg012_answer_0003" data-response data-braille-native="true" type="text" autocomplete="off" aria-label="Jamii inayokula chakula katika picha c">
+                  </th>
+                  <td class="food-picture-cell">
+                    <img src="./images/pg012_im003.png" alt="Mguu wa nyama na vibuyu viwili." data-id="pg012_im003">
+                    <span class="sr-only" aria-hidden="true" data-audio-description-for="pg012_im003" data-id="pg012_im003_audio_description">Mguu mkubwa wa nyama uliopikwa umewekwa mbele ya vibuyu viwili vya kahawia.</span>
+                  </td>
+                </tr>
+                <tr>
+                  <th class="food-answer-cell" scope="row">
+                    <label for="pg012-answer-d" data-id="pg012_n0006">(d)</label>
+                    <input class="response-input" id="pg012-answer-d" data-aria-id="pg012_answer_0004" data-response data-braille-native="true" type="text" autocomplete="off" aria-label="Jamii inayokula chakula katika picha d">
+                  </th>
+                  <td class="food-picture-cell">
+                    <img src="./images/pg012_im004.png" alt="Samaki na wali kwenye sahani ya samawati." data-id="pg012_im004">
+                    <span class="sr-only" aria-hidden="true" data-audio-description-for="pg012_im004" data-id="pg012_im004_audio_description">Samaki mkubwa aliyepikwa amewekwa juu ya wali mweupe na mboga za majani kwenye sahani ya samawati.</span>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
           </div>
 
           <label class="prompt-block" for="pg012-answer-5" data-id="pg012_n0007">2. Taja vyakula vya asili mnavyokula nyumbani kwenu.</label>

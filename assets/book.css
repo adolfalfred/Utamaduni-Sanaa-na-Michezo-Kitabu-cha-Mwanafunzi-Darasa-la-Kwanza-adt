@@ -554,6 +554,79 @@ body.source-art-page {
   font-weight: 700;
 }
 
+.food-answer-table-wrap {
+  max-width: 64rem;
+  margin: 1rem auto 2rem;
+  overflow-x: auto;
+  border: 0.12rem solid var(--book-line);
+  background: var(--book-sky-soft);
+}
+
+.food-answer-table {
+  width: 100%;
+  min-width: 36rem;
+  border-collapse: collapse;
+  table-layout: fixed;
+  color: var(--book-ink);
+}
+
+.food-answer-column {
+  width: 45%;
+}
+
+.food-picture-column {
+  width: 55%;
+}
+
+.food-answer-table th,
+.food-answer-table td {
+  border: 0.1rem solid var(--book-line);
+}
+
+.food-answer-table thead th {
+  padding: 0.65rem 1rem;
+  background: #ffffff;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: clamp(1.45rem, 2.8vw, 2rem);
+  font-weight: 700;
+  text-align: center;
+}
+
+.food-answer-cell {
+  padding: 1rem;
+  background: var(--book-sky-soft);
+  text-align: left;
+  vertical-align: top;
+}
+
+.food-answer-cell label {
+  display: block;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: clamp(1.45rem, 2.8vw, 1.9rem);
+  font-weight: 500;
+}
+
+.food-answer-cell .response-input {
+  width: 100%;
+  margin-top: 1rem;
+  background: rgba(255, 255, 255, 0.88);
+}
+
+.food-picture-cell {
+  padding: 0.75rem;
+  background: #ffffff;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.food-picture-cell img {
+  display: block;
+  width: 100%;
+  height: clamp(11rem, 24vw, 18rem);
+  margin: 0 auto;
+  object-fit: contain;
+}
+
 .full-span-card {
   grid-column: 1 / -1;
 }
