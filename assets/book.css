@@ -133,12 +133,13 @@ body.source-art-page {
   z-index: 1;
   min-width: min(75%, 22rem);
   max-width: 92%;
-  margin: 0 0 -0.15rem;
+  margin: 0 0 8px;
   border: 0.25rem double #0ea5df;
   border-radius: 1rem 1rem 0 0;
   padding: 0.45rem 1.2rem 0.65rem;
   background: #ffffff;
   color: #075985;
+  font-size: clamp(1.5rem, 2.7vw, 1.8rem);
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: none;
