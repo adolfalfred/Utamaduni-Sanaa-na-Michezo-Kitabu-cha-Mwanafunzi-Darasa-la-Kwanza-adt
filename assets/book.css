@@ -58,6 +58,10 @@ body.source-art-page {
   list-style: decimal;
 }
 
+#content.book-content ol.numbered-instruction-list {
+  list-style: none;
+}
+
 #content.book-content ul:not(.toc-list) {
   list-style: disc;
 }
