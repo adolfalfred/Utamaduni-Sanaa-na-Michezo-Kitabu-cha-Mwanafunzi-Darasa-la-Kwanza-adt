@@ -356,12 +356,12 @@ body.source-art-page {
   min-width: 0;
 }
 
-.toc-label strong,
-.toc-label span {
+.toc-label > strong,
+.toc-label > span {
   display: block;
 }
 
-.toc-label span {
+.toc-label > span {
   color: var(--book-muted);
 }
 
@@ -854,7 +854,7 @@ body.source-art-page {
   line-height: 1.65;
 }
 
-.poem-lines span {
+.poem-lines > span {
   display: block;
 }
 
@@ -1231,7 +1231,8 @@ select:focus-visible {
 }
 
 /* Keep visible source text synchronized with narration-only pronunciation spans. */
-.tts-highlight-proxy {
+.book-content span[data-word-index],
+.book-content span[data-proxy-word-index] {
   display: inline;
 }
 
