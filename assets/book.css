@@ -989,13 +989,13 @@ body.source-art-page {
   background: transparent;
   color: #ec008c;
   font-size: clamp(1.55rem, 3vw, 2rem);
-  font-style: italic;
+  font-style: normal;
   font-weight: 800;
 }
 
 .activity-panel[data-practical-activity-id] .prompt-block {
   margin: 0.25rem 0 0;
-  font-style: italic;
+  font-style: normal;
   font-weight: 500;
 }
 
