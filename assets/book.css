@@ -1230,6 +1230,22 @@ select:focus-visible {
   }
 }
 
+/* Keep visible source text synchronized with narration-only pronunciation spans. */
+.tts-highlight-proxy {
+  display: inline;
+}
+
+li.tts-inline-numbered-item {
+  list-style: none !important;
+}
+
+.tts-inline-list-marker {
+  display: inline-block;
+  min-width: 2.15em;
+  margin-left: -2.15em;
+  font-variant-numeric: tabular-nums;
+}
+
 @media print {
   body,
   body.source-art-page {
