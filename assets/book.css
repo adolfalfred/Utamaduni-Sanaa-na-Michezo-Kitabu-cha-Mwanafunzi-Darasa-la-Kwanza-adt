@@ -644,6 +644,12 @@ body.source-art-page {
   object-fit: contain;
 }
 
+.pg036-steps-figure img {
+  width: min(100%, 57rem);
+  height: auto;
+  max-height: none;
+}
+
 .pg074075-materials-figure img {
   max-height: 52rem;
 }
