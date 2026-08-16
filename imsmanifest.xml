@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_1" version="74"
+<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_1" version="75"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -198,7 +198,6 @@
       <file href="content/i18n/sw-TZ/audio/pg011_n0002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg011_n0003.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg011_n0004.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg011_n0005.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg012_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg012_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg012_im003.mp3"/>
@@ -273,7 +272,6 @@
       <file href="content/i18n/sw-TZ/audio/pg016_n0010.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg016_n0012.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg016_n0013.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg016_n0014.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg018_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg018_im003.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg018_n0001.mp3"/>
@@ -330,7 +328,6 @@
       <file href="content/i18n/sw-TZ/audio/pg026027_n0009.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg026027_n0011.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg026027_n0012.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg026027_n0013.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg028_callout_title.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg028_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg028_im003.mp3"/>
@@ -347,7 +344,6 @@
       <file href="content/i18n/sw-TZ/audio/pg029_n0005.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg029_n0006.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg029_n0007.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg029_n0008.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg030_im002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg030_im003.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg030_n0001.mp3"/>

@@ -9,7 +9,7 @@
   "activationRule": "Usiwashe tafsiri ya vitufe sita kabla mtaalamu wa Breli wa Tanzania hajathibitisha msimbo, jedwali na kanuni za tathmini.",
   "summary": {
     "activities": 69,
-    "nativeKeyboardOrBrailleAlternatives": 40,
+    "nativeKeyboardOrBrailleAlternatives": 36,
     "tactileResourceRequired": 69,
     "sixKeyPilotCandidates": 0
   },
@@ -59,16 +59,13 @@
         11
       ],
       "printedPages": "5",
-      "expectedResponses": 1,
+      "expectedResponses": 0,
       "taskType": "practical-performance",
-      "expectedResponseType": "teacher-reviewed-completion",
+      "expectedResponseType": "physical-cooking-no-written-response",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "physical-cooking"
       ],
-      "nativeBrailleInputAvailable": true,
+      "nativeBrailleInputAvailable": false,
       "tactileResourceRequired": true,
       "tactileResourceDecision": null,
       "sixKeyPilotCandidate": false,
@@ -164,16 +161,13 @@
         16
       ],
       "printedPages": "10",
-      "expectedResponses": 1,
+      "expectedResponses": 0,
       "taskType": "practical-performance",
-      "expectedResponseType": "teacher-reviewed-completion",
+      "expectedResponseType": "physical-fashion-show-no-written-response",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "physical-fashion-show"
       ],
-      "nativeBrailleInputAvailable": true,
+      "nativeBrailleInputAvailable": false,
       "tactileResourceRequired": true,
       "tactileResourceDecision": null,
       "sixKeyPilotCandidate": false,
@@ -472,16 +466,13 @@
         27
       ],
       "printedPages": "21",
-      "expectedResponses": 1,
+      "expectedResponses": 0,
       "taskType": "practical-performance",
-      "expectedResponseType": "teacher-reviewed-completion",
+      "expectedResponseType": "physical-cleaning-no-written-response",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "physical-cleaning"
       ],
-      "nativeBrailleInputAvailable": true,
+      "nativeBrailleInputAvailable": false,
       "tactileResourceRequired": true,
       "tactileResourceDecision": null,
       "sixKeyPilotCandidate": false,
@@ -542,16 +533,13 @@
         29
       ],
       "printedPages": "23",
-      "expectedResponses": 1,
+      "expectedResponses": 0,
       "taskType": "practical-role-play",
-      "expectedResponseType": "teacher-reviewed-completion",
+      "expectedResponseType": "physical-role-play-no-written-response",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "physical-role-play"
       ],
-      "nativeBrailleInputAvailable": true,
+      "nativeBrailleInputAvailable": false,
       "tactileResourceRequired": true,
       "tactileResourceDecision": null,
       "sixKeyPilotCandidate": false,
@@ -616,7 +604,7 @@
       "taskType": "practical-role-play",
       "expectedResponseType": "physical-role-play-no-written-response",
       "inputMethods": [
-        "physical-performance"
+        "physical-role-play"
       ],
       "nativeBrailleInputAvailable": false,
       "tactileResourceRequired": true,
@@ -685,7 +673,7 @@
       "taskType": "practical-role-play",
       "expectedResponseType": "physical-role-play-no-written-response",
       "inputMethods": [
-        "physical-performance"
+        "physical-role-play"
       ],
       "nativeBrailleInputAvailable": false,
       "tactileResourceRequired": true,

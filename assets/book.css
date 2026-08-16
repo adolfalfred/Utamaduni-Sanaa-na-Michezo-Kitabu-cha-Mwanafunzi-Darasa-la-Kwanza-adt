@@ -974,6 +974,31 @@ body.source-art-page {
   margin-bottom: 0;
 }
 
+/* Source-book treatment for practical "Shughuli ya kufanya" boxes. */
+.activity-panel[data-practical-activity-id] {
+  border: 0.12rem solid #ec008c;
+  border-radius: 0;
+  padding: clamp(0.65rem, 1.8vw, 1rem);
+  background: #fffdbb;
+}
+
+.activity-panel[data-practical-activity-id] .activity-heading {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: #ec008c;
+  font-size: clamp(1.55rem, 3vw, 2rem);
+  font-style: italic;
+  font-weight: 800;
+}
+
+.activity-panel[data-practical-activity-id] .prompt-block {
+  margin: 0.25rem 0 0;
+  font-style: italic;
+  font-weight: 500;
+}
+
 .prompt-block {
   margin: 1.5rem 0 0.7rem;
   color: var(--book-ink);
