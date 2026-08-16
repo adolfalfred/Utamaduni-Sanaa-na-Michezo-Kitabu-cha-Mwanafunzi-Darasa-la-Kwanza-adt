@@ -434,13 +434,16 @@ body.source-art-page {
 
 .guide-callout {
   margin: 0 auto 2rem;
+  overflow: visible;
   width: min(100%, 48rem);
 }
 
 .guide-callout img {
   display: block;
   width: 100%;
+  max-height: none;
   height: auto;
+  object-fit: contain;
 }
 
 .picture-grid {
@@ -917,7 +920,9 @@ body.source-art-page {
 .split-guide-callout img {
   display: block;
   width: 100%;
+  max-height: none;
   height: auto;
+  object-fit: contain;
 }
 
 .speech-panel {
