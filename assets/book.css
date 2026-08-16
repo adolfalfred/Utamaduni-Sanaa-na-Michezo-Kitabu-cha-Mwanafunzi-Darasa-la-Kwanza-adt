@@ -650,6 +650,12 @@ body.source-art-page {
   max-height: none;
 }
 
+.pg040-demonstration-figure img {
+  width: min(100%, 45rem);
+  height: auto;
+  max-height: none;
+}
+
 .pg074075-materials-figure img {
   max-height: 52rem;
 }
