@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_1" version="87"
+<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_1" version="88"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -965,7 +965,6 @@
       <file href="content/i18n/sw-TZ/audio/pg099100_n0018.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg101102_im001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg101102_n0001.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg101102_n0002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg101102_n0003.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg101102_n0004.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg101102_n0005.mp3"/>
@@ -1195,6 +1194,7 @@
       <file href="images/pg099100_im002.png"/>
       <file href="images/pg099100_im003.png"/>
       <file href="images/pg101102_im001.png"/>
+      <file href="images/pg101102_im002.png"/>
       <file href="index.html"/>
       <file href="pg001_sec001.html"/>
       <file href="pg002_sec001.html"/>
