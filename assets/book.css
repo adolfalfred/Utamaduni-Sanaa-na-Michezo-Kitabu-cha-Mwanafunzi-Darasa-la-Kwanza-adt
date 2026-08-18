@@ -755,6 +755,11 @@ body.source-art-page {
   margin-top: 0.75rem;
 }
 
+.practical-task-list .tts-inline-list-marker {
+  min-width: 1.1em;
+  margin-left: -1.1em;
+}
+
 .food-response-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
