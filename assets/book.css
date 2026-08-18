@@ -647,10 +647,75 @@ body.source-art-page {
   object-fit: contain;
 }
 
-.pg036-steps-figure img {
-  width: min(100%, 57rem);
-  height: auto;
-  max-height: none;
+.pg036-parts-grid,
+.pg036-finish-grid {
+  display: grid;
+  gap: clamp(0.8rem, 1.8vw, 1.25rem);
+  margin: 1rem 0 1.5rem;
+}
+
+.pg036-parts-grid {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.pg036-finish-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 0;
+}
+
+.pg036-step-card {
+  display: flex;
+  min-width: 0;
+  margin: 0;
+  overflow: hidden;
+  flex-direction: column;
+  border: 2px solid #f3a11a;
+  border-radius: 0.4rem;
+  background: #fffaca;
+}
+
+.pg036-step-card img {
+  display: block;
+  width: 100%;
+  background: #fffaca;
+  object-fit: contain;
+}
+
+.pg036-part-card img {
+  aspect-ratio: 5 / 4;
+}
+
+.pg036-finish-card img {
+  aspect-ratio: 7 / 5;
+}
+
+.pg036-step-card figcaption {
+  min-height: 3.4rem;
+  padding: 0.6rem 0.75rem;
+  border-top: 2px solid #f3a11a;
+  color: var(--book-ink);
+  background: #fffaca;
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+  font-size: clamp(1.2rem, 2.1vw, 1.65rem);
+  font-weight: 600;
+  line-height: 1.3;
+  text-align: center;
+}
+
+@media (max-width: 900px) {
+  .pg036-parts-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .pg036-parts-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .pg036-finish-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
 }
 
 .pg040-demonstration-figure img {
